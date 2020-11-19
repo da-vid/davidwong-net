@@ -1,0 +1,10 @@
+{
+    "development": {
+      "apiUrl": "https://ghost.davidwong.net",
+      "contentApiKey": "15dfd7f42fcaf23b3fcf49994c"
+    },
+    "production": {
+      "apiUrl": "https://ghost.davidwong.net",
+      "contentApiKey": "15dfd7f42fcaf23b3fcf49994c"
+    }
+  }
